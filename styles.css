@@ -742,7 +742,16 @@ article {
 }
 
 .article-title a {
-  color: #151515;
+  /*color: #151515;*/
+  color: #2962ff;
+  filter: brightness(60%);
+  transition: color 0.6s ease;
+}
+
+.article-title a:hover {
+  /*color: #151515;*/
+  color: <no value>;
+  filter: brightness(100%);
   transition: color 0.6s ease;
 }
 
@@ -767,7 +776,7 @@ article {
 }
 
 .stream-meta.article-metadata {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 
 /* For article page only, not lists. */
@@ -859,7 +868,7 @@ article .article-metadata {
 }
 
 .media.stream-item .stream-meta {
-  margin-top: 12px;
+  margin-top: 6px;
 }
 
 .media.stream-item img {
