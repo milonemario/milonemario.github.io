@@ -18,13 +18,13 @@
 
 html {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -407,8 +407,9 @@ a[data-fancybox] img {
 
 .home-section {
   background-color: rgb(255, 255, 255);
-  padding: 110px 0 110px 0;
-  animation: intro 0.3s both;
+/*  padding: 110px 0 110px 0; */
+  padding: 20px 0 20px 0;
+  animation: intro 0.1s both;
   animation-delay: 0.15s;
 }
 
@@ -449,9 +450,9 @@ a[data-fancybox] img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  animation: intro 0.3s both;
+  animation: intro 0.1s both;
   animation-delay: 0s;
-  animation-delay: 0.25s;
+  animation-delay: 0.15s;
 }
 
 .hero-title {
@@ -527,8 +528,8 @@ a[data-fancybox] img {
 }
 
 #profile .portrait {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto;
   border-radius: 50%;
   object-fit: cover;
@@ -654,7 +655,7 @@ ul.share li:hover i {
  **************************************************/
 
 article {
-  animation: intro 0.3s both;
+  animation: intro 0.1s both;
   animation-delay: 0.15s;
 }
 
@@ -845,7 +846,7 @@ article .article-metadata {
  **************************************************/
 
 .media.stream-item {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .media.stream-item .article-title {
@@ -1360,7 +1361,7 @@ a.badge:hover {
 
 .dropdown-menu,
 nav#navbar-main li.nav-item {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link,
