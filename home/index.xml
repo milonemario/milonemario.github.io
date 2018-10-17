@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Mario Milone</title>
+    <link>http://mariomilone.org/home/</link>
+    <description>Recent content in Homes on Mario Milone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://mariomilone.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://mariomilone.org/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/home/about/</guid>
+      <description>About me I am a PhD candidate in Finance from Université Paris Dauphine, and a visiting scholar at Imperial College Business School.
+I have submitted my dissertation and will be attending the ASSA meetings in Atlanta over January 4-6, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Working papers</title>
+      <link>http://mariomilone.org/home/working_papers/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/home/working_papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://mariomilone.org/home/publications_book_chapters/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/home/publications_book_chapters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://mariomilone.org/home/publications_cs_proceedings/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/home/publications_cs_proceedings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://mariomilone.org/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mariomilone.org/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://mariomilone.org/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/home/teaching/</guid>
+      <description>Teaching Assistant for Professor Gilles Chemla, 2015-2018 Imperial College Business School
+ Advanced Corporate Finance (Global, Full-Time and Weekend MBAs) Mergers &amp;amp; Acquisitions (Full-Time and Weekends MBAs)  Lecturer (Master level) Université Paris Dauphine
+ Corporate Finance, 2013, 2016-2018 VBA, 2013  Lecturer in Computer Science (Undergraduate level), 2012 Université Paris-Dauphine
+ General Programming  Teaching Interests Corporate Finance ; Financial Intermediation ; Investment ; FinTech ; Big Data ; Machine Learning for Finance</description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>http://mariomilone.org/home/conferences/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/home/conferences/</guid>
+      <description>Finance Theory Group (FTG) summer conference, June 2018 London Business School, London
+ CEPR Third Annual Spring Symposium in Financial Economics, April 2018 Imperial College Business School, London
+ Second Workshop on Corporate Governance, June 2017 ESCP Europe, Paris
+ Adam Smith Conference in Finance, March 2017 HEC Paris
+ EFA Annual Meeting (43rd), August 2016 BI Norwegian Business School, Oslo
+ 1st Microstructure Conference, June 2016 Université Paris Dauphine, Paris</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://mariomilone.org/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

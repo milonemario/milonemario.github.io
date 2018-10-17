@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Mario Milone</title>
+    <link>http://mariomilone.org/publication_types/7/</link>
+    <description>Recent content in 7 on Mario Milone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 12 Nov 2011 12:32:07 +0100</lastBuildDate>
+    
+	<atom:link href="http://mariomilone.org/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consistent Belief State Estimation, with Application to Mines</title>
+      <link>http://mariomilone.org/publication/consistent-belief/</link>
+      <pubDate>Sat, 12 Nov 2011 12:32:07 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/publication/consistent-belief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q-Learning with Double Progressive Widening: Application to Robotics</title>
+      <link>http://mariomilone.org/publication/qlearning-double-pw/</link>
+      <pubDate>Sat, 12 Nov 2011 12:32:07 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/publication/qlearning-double-pw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Rapid Action Value Estimates</title>
+      <link>http://mariomilone.org/publication/continuous-rave/</link>
+      <pubDate>Tue, 01 Mar 2011 12:32:07 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/publication/continuous-rave/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
