@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>http://mariomilone.org/publication/information-flow/</loc>
+      <lastmod>2018-10-16T12:35:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://mariomilone.org/publication/smart-lending/</loc>
       <lastmod>2018-10-16T12:35:07+01:00</lastmod>
     </url>
@@ -37,7 +45,7 @@
     <url>
     
       <loc>http://mariomilone.org/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -45,7 +53,7 @@
     <url>
     
       <loc>http://mariomilone.org/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -53,7 +61,7 @@
     <url>
     
       <loc>http://mariomilone.org/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -111,6 +119,15 @@
     
     <url>
     
+      <loc>http://mariomilone.org/publication_types/8/</loc>
+      <lastmod>2018-10-16T12:35:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://mariomilone.org/categories/</loc>
       <priority>0</priority>
     </url>
@@ -120,7 +137,7 @@
     <url>
     
       <loc>http://mariomilone.org/</loc>
-      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

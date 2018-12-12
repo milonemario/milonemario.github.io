@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Mario Milone</title>
+    <link>http://mariomilone.org/publication_types/8/</link>
+    <description>Recent content in 8 on Mario Milone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 16 Oct 2018 12:35:07 +0100</lastBuildDate>
+    
+	<atom:link href="http://mariomilone.org/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information flow and analyst information production</title>
+      <link>http://mariomilone.org/publication/information-flow/</link>
+      <pubDate>Tue, 16 Oct 2018 12:35:07 +0100</pubDate>
+      
+      <guid>http://mariomilone.org/publication/information-flow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
