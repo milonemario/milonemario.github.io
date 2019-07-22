@@ -6,8 +6,8 @@
     <description>Recent content in Homes on Mario Milone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="http://mariomilone.org/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>http://mariomilone.org/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://mariomilone.org/home/about/</guid>
       <description>About me I am a visiting researcher at Imperial College Business School. I obtained a Ph.D. in Finance from Université Paris-Dauphine in December 2018 and I hold Master degrees in Computer Engineering and Artificial Intelligence. Prior to my Ph.D., I wrote and published research articles in machine learning. Since then I have developed broad research interests that include Financial Intermediation, Corporate Finance, FinTech, and Big Data in Finance.
@@ -25,7 +25,7 @@ I will be attending the ASSA meetings in Atlanta over January 4-6, 2019.</descri
     <item>
       <title>Working papers</title>
       <link>http://mariomilone.org/home/working_papers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://mariomilone.org/home/working_papers/</guid>
       <description></description>
@@ -34,7 +34,7 @@ I will be attending the ASSA meetings in Atlanta over January 4-6, 2019.</descri
     <item>
       <title>Work in progress</title>
       <link>http://mariomilone.org/home/work_in_progress/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://mariomilone.org/home/work_in_progress/</guid>
       <description></description>
@@ -43,7 +43,7 @@ I will be attending the ASSA meetings in Atlanta over January 4-6, 2019.</descri
     <item>
       <title>Publications</title>
       <link>http://mariomilone.org/home/publications_book_chapters/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://mariomilone.org/home/publications_book_chapters/</guid>
       <description></description>
@@ -52,7 +52,7 @@ I will be attending the ASSA meetings in Atlanta over January 4-6, 2019.</descri
     <item>
       <title>Publications</title>
       <link>http://mariomilone.org/home/publications_cs_proceedings/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://mariomilone.org/home/publications_cs_proceedings/</guid>
       <description></description>
@@ -70,10 +70,11 @@ I will be attending the ASSA meetings in Atlanta over January 4-6, 2019.</descri
     <item>
       <title>Experience</title>
       <link>http://mariomilone.org/home/experience/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://mariomilone.org/home/experience/</guid>
-      <description>Visiting Researcher, 2018-2019 Imperial College Business School
+      <description>Assistant Professor of Accounting, 2019 - Present University of California San Diego &amp;ndash; Rady School of Management
+Visiting Researcher, 2018-2019 Imperial College Business School
 Temporary Lecturer (ATER), 2016-2018 Université Paris Dauphine
 Research Intern, 2011 (5 months) Laboratoire de Recherche en Informatique (LRI), Paris
 Software Designer (Summer intern), 2010 IP Partners, Tokyo</description>
@@ -82,7 +83,7 @@ Software Designer (Summer intern), 2010 IP Partners, Tokyo</description>
     <item>
       <title>Teaching</title>
       <link>http://mariomilone.org/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://mariomilone.org/home/teaching/</guid>
       <description>Teaching Assistant for Professor Gilles Chemla, 2015-2018 Imperial College Business School
@@ -94,21 +95,21 @@ Software Designer (Summer intern), 2010 IP Partners, Tokyo</description>
     <item>
       <title>Conferences</title>
       <link>http://mariomilone.org/home/conferences/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://mariomilone.org/home/conferences/</guid>
-      <description>Finance Theory Group (FTG) summer conference, June 2018 London Business School, London
- CEPR Third Annual Spring Symposium in Financial Economics, April 2018 Imperial College Business School, London
- Second Workshop on Corporate Governance, June 2017 ESCP Europe, Paris
- Adam Smith Conference in Finance, March 2017 HEC Paris
- EFA Annual Meeting (43rd), August 2016 BI Norwegian Business School, Oslo
- 1st Microstructure Conference, June 2016 Université Paris Dauphine, Paris</description>
+      <description>‡ TILEC-GovReg Workshop on &amp;ldquo;Governance of Big Data and AI&amp;rdquo;, June 2019 Tilburg University, Tilburg
+† The Future of Financial Information, May 2019 Stockholm Business School, Stockholm
+† Oxford NuCamp-Saïd Macro-finance Conference, April 2019 University of Oxford &amp;ndash; Saïd Business School, Oxford
+‡ Second Toronto FinTech Conference, March 2019 Ivey Business School / Scotiabank, Toronto
+* Finance Theory Group (FTG) summer conference, June 2018 London Business School, London
+* CEPR Third Annual Spring Symposium in Financial Economics, April 2018 Imperial College Business School, London</description>
     </item>
     
     <item>
       <title>Contact</title>
       <link>http://mariomilone.org/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>http://mariomilone.org/home/contact/</guid>
       <description></description>
